@@ -1,0 +1,30 @@
+# Permalinks
+#
+# Use of `relative_permalinks` ensures post links from the index work properly.
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               Nowwot
+tagline:             The Jekyll Butler
+url:                 http://blog.nowwot.co
+paginate:            1
+baseurl:             ""
+
+# Assets
+#
+# We specify the directory for Jekyll so we can use @imports.
+sass:
+  sass_dir:          _sass
+  style:            :compressed
+
+# About/contact
+author:
+  name:              Nowwot Team
+  url:               https://twitter.com/teamnowwot
+  email:             team@nowwot.co
+
+# Custom vars
+version:             2.0.0
+github:
+  repo:              https://bitbucket.com/nowwot/blog
