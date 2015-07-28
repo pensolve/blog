@@ -1,0 +1,5 @@
+{
+  "name": "nowwot-blog",
+  "root": "_site",
+  "clean_urls": true
+}

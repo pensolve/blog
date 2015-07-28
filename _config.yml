@@ -28,3 +28,6 @@ author:
 version:             2.0.0
 github:
   repo:              https://bitbucket.com/nowwot/blog
+
+exclude:
+  - divshot.json
