@@ -5,8 +5,8 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Nowwot
-tagline:             The Jekyll Butler
+title:               Team Nowwot Blog
+tagline:             Our journey from an idea to beyond
 url:                 http://blog.nowwot.co
 paginate:            1
 baseurl:             ""
@@ -21,7 +21,7 @@ sass:
 # About/contact
 author:
   name:              Nowwot Team
-  url:               https://twitter.com/teamnowwot
+  url:               http://nowwot.co
   email:             team@nowwot.co
 
 # Custom vars
