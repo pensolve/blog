@@ -5,9 +5,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               Team Nowwot Blog
+title:               Pensolve Blog
 tagline:             Our journey from an idea to beyond
-url:                 http://blog.nowwot.co
+url:                 http://blog.pensolve.com
 paginate:            1
 baseurl:             ""
 
@@ -20,14 +20,14 @@ sass:
 
 # About/contact
 author:
-  name:              Nowwot Team
-  url:               http://nowwot.co
-  email:             team@nowwot.co
+  name:              Pensolve
+  url:               http://www.pensolve.com
+  email:             team@pensolve.com
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://bitbucket.com/nowwot/blog
+  repo:              https://bitbucket.com/hinaudigital/pensolve-blog
 
 exclude:
   - divshot.json
