@@ -1,5 +1,7 @@
-Finding common spreadsheet errors
-=================================
+---
+layout: post
+title: "Finding common spreadsheet errors"
+---
 
 Pensolve has release a couple of new features recently to help with finding common spreadsheet errors.
 
