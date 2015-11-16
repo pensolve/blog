@@ -6,7 +6,7 @@ Pensolve has release a couple of new features recently to help with finding comm
 ### Hardset numbers
 One of the most common spreadsheet errors occurs when formulas contain numbers instead of cell references, known as "hardset values", eg.
 
-$$ = B5*B6 + 8*B8$$
+= B5 * B6 + 8 * B8
 
 The 8 may represent something physical like their are eight people in your team, which is fine until you add more people to your team.
 
