@@ -56,6 +56,14 @@ To add a post, simply follow the conventions of the other posts in the `_posts` 
 
 Simply download from the [Lanyon repo](https://github.com/poole/lanyon) as a ZIP, and unzip the contents, overwriting everything EXCEPT the config.yml and README.md.
 
+For adding images, these need to be placed in [the Pensolve Landing Page public folder](https://github.com/pensolve/pensolve.github.io/tree/master/public). Place them in a folder named by the date added and insert the following markdown into the post (Example below):
+
+```
+![Picture showing example of process](/public/2015-10-29/equation_tracking.gif){: .center-image }
+```
+
+
+
 ## Options
 
 Poole includes some customizable options, typically applied via classes on the `<body>` element.
