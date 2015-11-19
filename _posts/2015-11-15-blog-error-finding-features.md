@@ -18,7 +18,7 @@ Pensolve helps you find hardset numbers by rendering them in blue in the formula
 
 ![Picture showing hardset number highlighting](/public/2015-11-19/hardset_highlighting.png)
 
-The 0.8 should have been the foundation depth!{: .center-text }
+The 0.8 should have been the foundation depth! {: .center-text }
 
 ### Inconsistent units
 
