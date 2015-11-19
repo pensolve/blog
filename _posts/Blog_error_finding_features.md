@@ -38,3 +38,9 @@ If there is a change then two formulas will be produced and two separate tables 
 When working across multiple sheets it is easy to accidentally reference the wrong cell in an equation.
 
 Pensolve renders the algebraic formula so that you can quickly assess whether the formula is correct.
+
+![Picture showing hardset number highlighting](/public/Wrong_cell_ref_markedup.png)
+
+### Summary
+
+These new features allow Excel users to quickly find mistakes in their spreadsheets and enforces good spreadsheet calculation practices. The Pensolve team is working hard to develop a robust service that helps engineers eliminate spreadsheet errors, if you think of any new features or improvements then send them in to team@pensolve.com to help us build a useful service for you.
