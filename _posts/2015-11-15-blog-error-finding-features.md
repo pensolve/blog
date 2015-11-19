@@ -31,9 +31,9 @@ When you are inspecting an equation using the equation dependency tracking tool,
 Pensolve also renders the equation using the input values to provide a sanity check that the magnitude of each input is what is expected.
 
 ![Picture showing wrong units](/public/2015-11-19/Wrong_units.png)
-<p align="center">
-  Metres are added to millimetres!
-</p>
+
+Metres are added to millimetres!
+{: style="text-align: center"}
 
 ### Different formulas in an array
 
@@ -44,9 +44,10 @@ If the formula is the same it will render the array formula once and place all t
 If there is a change then two formulas will be produced and two separate shorter arrays are rendered.
 
 ![Picture showing different formula in array](/public/2015-11-19/New_array_formula_markedup.png)
-<p align="center">
-  The formula has changed in the displacement array
-</p>
+
+The formula has changed in the displacement array
+{: style="text-align: center"}
+
 ### Incorrect cell reference
 
 When working across multiple sheets it is easy to accidentally reference the wrong cell in an equation.
@@ -54,9 +55,9 @@ When working across multiple sheets it is easy to accidentally reference the wro
 Pensolve renders the algebraic formula so that you can quickly assess whether the formula is correct.
 
 ![Picture showing incorrect reference](/public/2015-11-19/Wrong_cell_ref_markedup.png)
-<p align="center">
-  mass_1 should have been referenced instead of density!
-</p>
+
+mass_1 should have been referenced instead of density!
+{: style="text-align: center"}
 
 ### Summary
 
