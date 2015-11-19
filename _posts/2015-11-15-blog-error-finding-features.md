@@ -17,9 +17,8 @@ The inability to quickly see hardset numbers in MS Excel means that these number
 Pensolve helps you find hardset numbers by rendering them in blue in the formula.
 
 ![Picture showing hardset number highlighting](/public/2015-11-19/hardset_highlighting.png)
-<p align="center">
-  The 0.8 should have been the foundation depth!
-</p>
+
+The 0.8 should have been the foundation depth!{: style="text-align: center;"}
 
 ### Inconsistent units
 
