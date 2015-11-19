@@ -62,6 +62,14 @@ For adding images, these need to be placed in [the Pensolve Landing Page public 
 ![Picture showing example of process](/public/2015-10-29/equation_tracking.gif){: .center-image }
 ```
 
+For text, it is similar:
+
+```
+Charlie rules the word
+{: style="text-align: center"}
+```
+
+In summary, the Kramdown parser is used to parse the Markdown.
 
 
 ## Options
