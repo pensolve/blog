@@ -1,0 +1,23 @@
+Hi << Test First Name >>,
+A more user-friendly Pensolve
+It has been a big few weeks for the team to deliver an update to the processing engine behind Pensolve. This is the biggest set of refinements since we launched our commercial product in March. We are very grateful to all the people who provided us with feedback to help us decide on these refinements, I hope you enjoy them!
+ 
+You can now have subsubsection headers as well as subsection headers in your PDF output. This allows you to add more structure when you are building large spreadsheets. (bold font = subsubsection, bold + underline = subsection)
+Formatted subscripts and superscripts are now passed through to the PDF. We also allow "_" and "^" as a quick way to indicate subscripts and superscripts.
+You can now give units in a different order of magnitude, (eg. [x10^3 m] or [1E6 Nmm]).
+You can pre-populate the Job number in the header block, by including the job number in the spreadsheet.
+We are also trying out a new warnings file, it is still under-development but we would love to get your input about what it should include.
+We have fixed an issue with the line spacing in the inputs table which made it hard to read the comments.
+Check out the latest version at https://app.pensolve.com
+Pensolve in the UK Financial Times
+That's right! Cofounder Maxim Millen was recently interviewed by the UK Financial Times about Pensolve and the importance of innovation in the recovery of Christchurch. Check out the full article here: https://next.ft.com/content/85fcff96-2d4f-11e6-bf8d-26294ad519fc#axzz4C42Lvfvb.
+Engineering spreadsheet blog
+Maxim has recently started writing a blog about the best practices with engineering spreadsheets. In his first blog he talks about why engineering spreadsheets are different to spreadsheets that are used in finance, as well as providing a few tips about structuring your spreadsheet to allow others to navigate through it easily. 
+
+Check it out here: https://medium.com/@maxim_52273/the-dos-and-don-ts-of-engineering-spreadsheets-f3a234144f51#.2dfbp09h4
+The Pensolve Team
+
+
+
+Pensolve is a software developed and distributed by Hinau Digital Limited, 146a Lichfield Street, Christchurch Central, Christchruch 8011, New Zealand
+ Preferences . Unsubscribe
