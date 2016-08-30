@@ -8,7 +8,7 @@ Essentially they are computer software. However, Excel and other spreadsheet sof
 
 I started interviewing some engineering firms about how they deal with spreadsheet creation and validation, 
 and then found a fantastic study by the Tuck School of Business at Dartmouth College called
-[the Spreadsheet Engineering Research Project (SERP)](http://faculty.tuck.dartmouth.edu/images/uploads/faculty/serp/serp_results.pdf),
+[the Spreadsheet Engineering Research Project (SERP)](http://faculty.tuck.dartmouth.edu/images/uploads/faculty/serp/serp_results.pdf){:target="_blank"},
 most of the results presented in this article of from that study.
 
 Spreadsheet Size
@@ -34,7 +34,7 @@ and the thought process behind the spreadsheet.
 Surprisingly only 7.2% of the 1600 people who took part in the study said they always add documentation
 for their spreadsheets either within spreadsheets or in a separate document. 
 It is important to develop good practices around spreadsheet documentation or make use
-of a [spreadsheet conversion software (eg. Pensolve)](http://pensolve.com?ref=pak_blog), to help build the documentation for you.
+of a [spreadsheet conversion software (eg. Pensolve)](http://pensolve.com?ref=pak_blog){:target="_blank"}, to help build the documentation for you.
 
 Spreadsheets contain errors
 ---------------------------
@@ -49,7 +49,7 @@ And secondly, we are fighting a natural self-serving bias that makes us think we
 A good option is to get someone else to review your work, and this is where the documentation comes in really handy. 
 The reviewer can not only check your cell-by-cell errors but also understand your design philosophy and check that it is appropriate. 
 But before you think this is the silver bullet there is some pretty compelling evidence suggesting that 
-[our ability to find spreadsheet errors could be as low as 40%](http://panko.com/ssr/InspectionExperiments.html). 
+[our ability to find spreadsheet errors could be as low as 40%](http://panko.com/ssr/InspectionExperiments.html){:target="_blank"}. 
 That means you might need a team to really find those errors. 
 
 Engineering Spreadsheet Protocols
