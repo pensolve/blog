@@ -2,14 +2,13 @@
 #
 # Use of `relative_permalinks` ensures post links from the index work properly.
 permalink:           pretty
-relative_permalinks: true
 
 # Setup
 title:               Pensolve Blog
 tagline:             Our journey from an idea to beyond
-url:                 http://blog.pensolve.com
+url:                 http://www.pensolve.com/blog
 paginate:            1
-baseurl:             ""
+baseurl:             "/blog"
 
 # Assets
 #

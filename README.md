@@ -1,4 +1,4 @@
-# Nowwot Blog
+# Pensolve Blog
 
 Built with [Poole using the Lanyon theme](http://lanyon.getpoole.com/)
 
@@ -49,7 +49,28 @@ No matter your production or hosting setup, be sure to verify the `baseurl` opti
 
 ### 4. Updating
 
+To add a post, simply follow the conventions of the other posts in the `_posts` folder. Main things are:
+
+1. File name - needs to have the date prepended, use only dashes for separation.
+2. Markdown header metadata - needs at minimum to specify `layout` and `title`, see an existing post in raw mode for details.
+
 Simply download from the [Lanyon repo](https://github.com/poole/lanyon) as a ZIP, and unzip the contents, overwriting everything EXCEPT the config.yml and README.md.
+
+For adding images, these need to be placed in [the Pensolve Landing Page public folder](https://github.com/pensolve/pensolve.github.io/tree/master/public). Place them in a folder named by the date added and insert the following markdown into the post (Example below):
+
+```
+![Picture showing example of process](/public/2015-10-29/equation_tracking.gif){: .center-image }
+```
+
+For text, it is similar:
+
+```
+Charlie rules the word
+{: style="text-align: center"}
+```
+
+In summary, the Kramdown parser is used to parse the Markdown.
+
 
 ## Options
 
