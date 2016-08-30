@@ -34,7 +34,7 @@ and the thought process behind the spreadsheet.
 Surprisingly only 7.2% of the 1600 people who took part in the study said they always add documentation
 for their spreadsheets either within spreadsheets or in a separate document. 
 It is important to develop good practices around spreadsheet documentation or make use
-of a [spreadsheet conversion software (eg. Pensolve)](http://pensolve.com?ref=pak_blog){:target="_blank"}, to help build the documentation for you.
+of a [spreadsheet conversion software (eg. Pensolve)](http://pensolve.com?ref=pak_blog), to help build the documentation for you.
 
 Spreadsheets contain errors
 ---------------------------
