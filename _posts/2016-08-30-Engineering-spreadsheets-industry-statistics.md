@@ -60,6 +60,8 @@ engineering spreadsheets](https://medium.com/@maxim_52273/the-dos-and-don-ts-of-
 In fact, 85% of engineers share their spreadsheets at least once a month. 
 Almost 20% do it every day. 
 
+![Spreadsheet pie graph](http://pensolve.com/public/2016-08-30-Engineering-spreadsheets-industry-statistics/Spreadsheet-sharing.png){: .center-image }
+
 Implementing a company protocol around spreadsheet formatting makes it easier for others to review 
 your work, as they know where to look for different parts of the design process. 
 Again, looking at the study results I was surprised to see only 3.4% of organizations have written detailed guidelines and protocols. 
