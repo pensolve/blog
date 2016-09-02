@@ -33,17 +33,20 @@
  */
 
 /* Prevent scroll on narrow devices */
+
+@import url("http://fonts.googleapis.com/css?family=Lato:300,400,900");
+
 html,
 body {
   overflow-x: hidden;
 }
 
 html {
-  font-family: "PT Serif", Georgia, "Times New Roman", serif;
+  font-family: Lato, "Times New Roman", sans-serif;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: Lato, "Times New Roman", sans-serif;
   font-weight: 400;
   color: #313131;
   letter-spacing: -.025rem;
@@ -52,6 +55,8 @@ h1, h2, h3, h4, h5, h6 {
 p {
   letter-spacing: .03rem;
   line-height: 1.8;
+  text-align: justify;
+  text-justify: inter-word;
 }
 
 /*
@@ -153,7 +158,7 @@ p {
   width: 14rem;
   visibility: hidden;
   overflow-y: auto;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: Lato, "Times New Roman", sans-serif;
   font-size: .875rem; /* 15px */
   color: rgba(255, 255, 255, .6);
   background-color: #202020;
@@ -171,6 +176,16 @@ p {
 .sidebar a {
   font-weight: normal;
   color: #fff;
+}
+.sidebar p {
+	font-weight: normal;
+    color: #fff;	
+}
+
+.sidebar-item-copyright {
+    font-size: 0.35rem;
+    color: #fff;
+    text-align: center;
 }
 
 .sidebar-item {
@@ -192,6 +207,13 @@ p {
   border-top: 1px solid rgba(255, 255, 255, .1);
 }
 
+.sidebar-nav-item-blog {
+  display: block;
+  padding: .5rem 1rem;
+  border-top: 1px solid rgba(255, 255, 255, .1);
+  font-size: 0.5rem;
+}
+
 .sidebar-nav-item.active,
 a.sidebar-nav-item:hover,
 a.sidebar-nav-item:focus {
@@ -206,6 +228,16 @@ a.sidebar-nav-item:focus {
   }
 
   .sidebar-nav-item {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+  
+  .sidebar-nav-item-copyright {
+    padding-left: 1.5rem;
+    padding-right: 1.5rem;
+  }
+  
+  .sidebar-nav-item-blog {
     padding-left: 1.5rem;
     padding-right: 1.5rem;
   }
@@ -328,7 +360,8 @@ a.sidebar-nav-item:focus {
 .page-title,
 .post-title,
 .post-title a {
-  color: #303030;
+ 	color: #303030;
+
 }
 
 .page-title,
@@ -385,7 +418,7 @@ a.sidebar-nav-item:focus {
   overflow: hidden; /* clearfix */
   margin-left: -1rem;
   margin-right: -1rem;
-  font-family: "PT Sans", Helvetica, Arial, sans-serif;
+  font-family: Lato, "Times New Roman", sans-serif;
   color: #ccc;
   text-align: center;
 }
@@ -492,6 +525,7 @@ a.pagination-item:hover {
 .theme-base-nowwot .sidebar-toggle:active,
 .theme-base-nowwot #sidebar-checkbox:checked ~ .sidebar-toggle {
   background-color: #26c17f;
+
 }
 
 .theme-base-nowwot .container a,
@@ -612,3 +646,5 @@ a.pagination-item:hover {
 .center-text {
   text-align: center;
 }
+
+
