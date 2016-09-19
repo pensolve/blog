@@ -14,7 +14,7 @@ most of the results presented in this article of from that study.
 Spreadsheet Size
 ---------------
 
-It turns out approximately 32% of engineering spreadsheets contain more than 1,000 cells of calculations. 
+It turns out approximately 50% of engineering spreadsheets contain more than 1,000 cells of calculations. 
 Pretty serious amounts of time and intellectual property are pumped into these calculations. 
 
 ![Spreadsheet pie graph](http://pensolve.com/public/2016-08-30-Engineering-spreadsheets-industry-statistics/Spreadsheet-size.png){: .center-image }
