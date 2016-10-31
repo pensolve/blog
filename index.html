@@ -7,8 +7,8 @@ title: Home
   {% for post in paginator.posts %}
   <div class="post">
     <h1 class="post-title">
-      <a href="http://pensolve.com/blog/2016/06/08/blog-Showcasing-Canterbury/">
-        {{ post.title }} Article
+      <a href="{{ site.baseurl }}/blog//{{ post.url }}">
+        {{ post.title }}
       </a>
     </h1>
 
