@@ -5,7 +5,7 @@ permalink:           pretty
 
 # Setup
 title:               Pensolve Blog
-tagline:             Our journey from an idea to beyond
+tagline:             Build better engineering spreadsheets
 url:                 http://www.pensolve.com/blog
 paginate:            1
 baseurl:             "/blog"
