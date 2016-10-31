@@ -14,10 +14,10 @@ most of the results presented in this article of from that study.
 Spreadsheet Size
 ---------------
 
-It turns out approximately 32% of engineering spreadsheets contain more than 1,000 cells of calculations. 
+It turns out that approximately 50% of engineering spreadsheets contain more than 1,000 cells of calculations. 
 Pretty serious amounts of time and intellectual property are pumped into these calculations. 
 
-[Include image]
+![Spreadsheet pie graph](http://pensolve.com/public/2016-08-30-Engineering-spreadsheets-industry-statistics/Spreadsheet-size.png){: .center-image }
 
 Unfortunately in engineering you are dealing with the real world, 
 and often have to modify your spreadsheets to account for particular one-off situations. 
@@ -49,7 +49,7 @@ And secondly, we are fighting a natural self-serving bias that makes us think we
 A good option is to get someone else to review your work, and this is where the documentation comes in really handy. 
 The reviewer can not only check your cell-by-cell errors but also understand your design philosophy and check that it is appropriate. 
 But before you think this is the silver bullet there is some pretty compelling evidence suggesting that 
-[our ability to find spreadsheet errors could be as low as 40%](http://panko.com/ssr/InspectionExperiments.html){:target="_blank"}. 
+[our ability to find spreadsheet errors could be as low as 40%](http://panko.com/ssr/InspectionExperiments.html). 
 That means you might need a team to really find those errors. 
 
 Engineering Spreadsheet Protocols
@@ -59,6 +59,8 @@ Because there is a real need to get others to review your work it is really impo
 engineering spreadsheets](https://medium.com/@maxim_52273/the-dos-and-don-ts-of-engineering-spreadsheets-f3a234144f51#.mxf3o1ygu). 
 In fact, 85% of engineers share their spreadsheets at least once a month. 
 Almost 20% do it every day. 
+
+![Spreadsheet pie graph](http://pensolve.com/public/2016-08-30-Engineering-spreadsheets-industry-statistics/Spreadsheet-sharing.png){: .center-image }
 
 Implementing a company protocol around spreadsheet formatting makes it easier for others to review 
 your work, as they know where to look for different parts of the design process. 

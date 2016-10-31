@@ -30,3 +30,5 @@ github:
 
 exclude:
   - divshot.json
+
+gems: [jekyll-paginate]
