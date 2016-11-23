@@ -57,5 +57,5 @@ your engineering firm.
 Check out this two-minute summary video.
 
 
-[![ScreenShot](http://pensolve.com/blog/public/why-purchase-pensolve.png)](https://youtu.be/HPXg-4WkhSw)
+[![ScreenShot](http://pensolve.com/blog/public/why-purchase-Pensolve.png)](https://youtu.be/HPXg-4WkhSw)
 
