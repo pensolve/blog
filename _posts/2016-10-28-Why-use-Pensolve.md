@@ -13,18 +13,24 @@ Risk Management
 
 Spreadsheets are notorious for containing errors, especially 
 engineering spreadsheets that are used across multiple jobs and edited by multiple people.
-Engineering spreadsheets are often modified to bespoke cases in a job, and these different versions can 
+Engineering spreadsheets are often modified for bespoke cases in a job, and these different versions can 
 result in unknown errors.
 Although it is efficient to use a spreadsheet across multiple jobs, the stakes are raised if there is an error,
 as this error can result in court cases across multiple clients.
 
-Pensolve provides our uses with a transparent view of their spreadsheets by converting them to hand-written calculations.
-The PDF of of hand-written calculations can then be reviewed and kept as a record
+Pensolve provides users with a transparent view of their spreadsheets by converting them into hand-written calculations.
+The PDF of the hand-written calculations can then be reviewed and kept as a record
  of the verification of the accuracy of the spreadsheet.
+
 Pensolve also provides a version detection tool, that allows you to compare project files
  against the verified master copy.
  This means that the review of project files can be focused on the inputs and
  outputs and any changes to the underlying formulas.
+ 
+ 
+ ![Version comparison explainer](http://pensolve.com/blog/public/version-comparison-explainer.png){: .center-image }
+
+
  
 Productivity
 ------------
@@ -48,8 +54,8 @@ spreadsheet based engineering is becoming more difficult and less efficient.
 Pensolve provides a light-weight workflow guide around how to manage the review and distribution of spreadsheets within
 your engineering firm.
 
-Check out this two-minute summary video!
+Check out this two-minute summary video.
 
 
-[![ScreenShot](https://raw.github.com/GabLeRoux/WebMole/master/ressources/WebMole_Youtube_Video.png)](http://youtu.be/vt5fpE0bzSY)
+[![ScreenShot](http://pensolve.com/blog/public/why-purchase-pensolve.png)](https://youtu.be/HPXg-4WkhSw)
 
