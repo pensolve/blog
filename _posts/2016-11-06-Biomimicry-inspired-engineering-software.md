@@ -97,8 +97,8 @@ It also runs a series of checks on the calculations to assess operational errors
 and understanding master files are the major new features in Pensolve Three. Pensolve is a part of a new group of 
 productivity applications for engineers that enhance the engineer rather than automate their work.
 
-Check out this [two-minute summary video.](https://youtu.be/HPXg-4WkhSw)
+Check out this [two-minute summary video.](https://youtu.be/oF4OvY1b4Rw)
 
-[![ScreenShot](http://pensolve.com/blog/public/why-purchase-Pensolve.png)](https://youtu.be/HPXg-4WkhSw)
+[![ScreenShot](http://pensolve.com/blog/public/why-purchase-Pensolve.png)](https://youtu.be/oF4OvY1b4Rw)
 
 
