@@ -17,13 +17,13 @@ intuitive and efficient way for Pensolve, I knew biomimicry would provide me wit
 Design problem
 --------------
 
-Present the calculations in a spreadsheet (5 to 500+ individual calculations), to the user to allow them 
+Present the calculations from a spreadsheet (5 to 500+ individual calculations) in a way that allowed the user
 to quickly understand how the spreadsheet works and be able to find errors.
 
 Solution – part 1 natural flow
 ------------------------------
 
-Each of the calculations in a spreadsheet are often inputs for other calculations, which are in turn 
+Each of the calculations in a spreadsheet are often inputs for other calculations, which are in turn are
 inputs for even more calculations. Essentially the calculations flow from the input cells through a 
 series of intermediate calculations to the output cells.
 
@@ -31,7 +31,7 @@ We adopted a flowmap to display the flow of calculations, similar to how a braid
 Our flowmap goes from inputs on the left to the outputs on the right and allows the user to see how an 
 individual calculation affects the outputs and surrounding calculations.
 
- ![Flow-map like a river](http://pensolve.com/blog/public/flow-map-design.png){: .center-image }
+ ![Flow-map like a river](http://pensolve.com/blog/public/flow-map-design.jpg){: .center-image }
 
 Solution - part 2: Overlapping lines
 ------------------------------------
@@ -69,17 +69,15 @@ While there are probably some magnificent solutions from genetics to work out ho
 and display it to the user, we turned to our backgrounds in seismic engineering. A common site investigation 
 technique called cross-hole testing requires the matching of an input signal to a recorded signal, which has 
 been modified by travelling through the ground. We converted the calculations in the spreadsheet into a signal 
-and through signal matching could map one spreadsheet on to another, even with considerable modifications. 
+and through signal matching could map one spreadsheet onto another, even with considerable modifications. 
 It is not strictly biomimicry, as the solution is more mathematical, however, the signal modification in cross-hole 
 testing is a natural process, so we are still claiming biomimicry here too.
 
  ![Cross-hole testing](http://pensolve.com/blog/public/cross-hole-testing.png){: .center-image }
 
-[Click here to try out an interactive demo.]
-(https://productionpensolve.blob.core.windows.net/common/flowmap.html?json=aFLOWMAP123.json&json2=bFLOWMAP444.json)
+[Click here to try out an interactive demo.](https://productionpensolve.blob.core.windows.net/common/flowmap.html?json=aFLOWMAP123.json&json2=bFLOWMAP444.json)
 
-[![displacement-based design example](http://pensolve.com/blog/public/DDBD-flow-map.png)]
-(https://productionpensolve.blob.core.windows.net/common/flowmap.html?json=aFLOWMAP123.json&json2=bFLOWMAP444.json)
+[![displacement-based design example](http://pensolve.com/blog/public/DDBD-flow-map.png)](https://productionpensolve.blob.core.windows.net/common/flowmap.html?json=aFLOWMAP123.json&json2=bFLOWMAP444.json)
 
 Summary
 -------
@@ -96,7 +94,7 @@ More about Pensolve Three
 Pensolve Three is the third version of Pensolve, a software solution to manage and review engineering spreadsheets. 
 Pensolve converts spreadsheets into hand-written calculations for internal and peer-review. 
 It also runs a series of checks on the calculations to assess operational errors. The comparison of spreadsheets 
-and understanding master files is the major new feature in Pensolve Three. Pensolve is a part of a new group of 
+and understanding master files are the major new features in Pensolve Three. Pensolve is a part of a new group of 
 productivity applications for engineers that enhance the engineer rather than automate their work.
 
 Check out this [two-minute summary video.](https://youtu.be/HPXg-4WkhSw)
