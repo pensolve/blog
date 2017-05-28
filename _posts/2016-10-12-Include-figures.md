@@ -17,6 +17,8 @@ To tell Pensolve to include a figure you can now simply added a border
 
 This feature is available for both Microsoft Excel and Google Sheets. 
 
+A full tutorial for Google Sheets can be found [here](http://pensolve.com/blog//2017/05/29/How-to-include-images-in-Pensolve-output-with-Google-sheets/)
+
 The web app is automatically updated with these changes so you can make 
 use of the latest version at [https://app.pensolve.com](https://app.pensolve.com)
 
