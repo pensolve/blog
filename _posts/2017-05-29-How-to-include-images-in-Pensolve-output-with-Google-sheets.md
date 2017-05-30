@@ -10,6 +10,8 @@ This is a step-by-step guide on how to get an image to show up.
 
 *Graphs/Charts and other editable images are not supported*
 
+You can [make a copy of the tutorial file here](https://docs.google.com/spreadsheets/d/1M3R3FRYkBOed3svG1Da6dg5cM20ZPSvmAFhLzVj-3j0/copy)
+
 1) Open Google sheets
 
 ![Open Google Sheets](http://pensolve.com/blog/public/include-images-gsheets/open-google-sheets-1.png){: .center-image }
