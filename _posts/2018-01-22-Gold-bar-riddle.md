@@ -4,13 +4,13 @@ title: "Traveller's gold bar riddle"
 ---
 
 On your holiday, you arrive in Glenorchy (a small town in the South Island of New Zealand). 
-You need to stay for 7 nights at Hotel but you only have one straight gold bar. 
-The patron asks you to pay her 1/7th of the gold bar every night at 6pm before you sleep.
+You need to stay for 7 nights at a hotel but you only have 1 straight gold bar. 
+The hotel manager asks you to pay her 1/7th of the gold bar every night at 6pm before you sleep.
 And to make matters worse, you are given a saw but are only allowed to make two cuts. 
 
 How do you cut the bar and pay for your stay?
 
--
+Solution below
 
 -
 
@@ -18,6 +18,7 @@ How do you cut the bar and pay for your stay?
 
 -
 
+-
 
 
 Solution:
