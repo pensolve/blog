@@ -26,7 +26,7 @@ The calculation cells are coloured light blue, calculation inputs are yellow, et
 
 ![Install step 4](http://pensolve.com/blog/public/install-excel-add-in/step-4.png){: .center-image }
 
-## Step 5. View cell equations from within excel
+## Step 5. View cell equations from within Excel
 
 ![Install step 5](http://pensolve.com/blog/public/install-excel-add-in/step-5.png){: .center-image }
 
