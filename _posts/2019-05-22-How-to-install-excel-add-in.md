@@ -6,7 +6,7 @@ title: "How to install Pensolve-Excel add-in"
 How to install and use the Pensolve-Excel add-in
 -------------------------------------------------------------------
 
-The Pensolve-Excel add-in provides additional features that are not available on the web-pp.
+The Pensolve-Excel add-in provides additional features that are not available on the web-app.
 The main advantage is that Pensolve can mark up the cells in the spreadsheet based on their usage.
 The calculation cells are coloured light blue, calculation inputs are yellow, etc (the full mark-up can be found at [http://pensolve.com/add-ins.html](http://pensolve.com/add-ins.html)).
 
